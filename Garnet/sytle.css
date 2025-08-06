@@ -1,0 +1,23 @@
+body{
+    background-color:cornflowerblue;
+}
+h1{
+    color: aliceblue;
+    font-size: 700%;
+    font-style: italic;
+    font-family: fantasy;
+    text-align: center;
+    
+}
+#imagem{
+    width: 70%;
+    display: block;
+    margin: 0 auto;
+}
+P{
+    color: aliceblue;
+    font-size: 110%;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center; 
+}
