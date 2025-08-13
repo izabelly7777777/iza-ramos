@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(255, 255, 255); 
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 600%;
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-align: center;
+}
+#imagem{
+    width: 0%;
+    display: block;
+    margin: 0 auto;
+    width: 30px;
+
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-size: 190%;
+    font-style: italic;
+    font-family: monospace;
+    text-align: center;  
+}
